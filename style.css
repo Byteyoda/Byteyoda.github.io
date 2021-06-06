@@ -12,7 +12,11 @@ h2{
 p{
     font-style: italic;
 }
-.social-menu ul{
-	position: absolute;
+social-menu{
+	 padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 
 }
