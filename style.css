@@ -2,21 +2,56 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-body{
+body {
 	background: #d8d8d8;
-}
-h2{
-	font-size: 50px;
+  margin: 10;
+  font-family: poppins;
+    
 
+}
+
+.inner {
+  padding-right: 50px;
+  margin: 50px 50px 50px 50px;
+  
+}
+.h1{
+  display: inline-flex;
+  font-size: 100px;
+  font-display: block;
+  margin-right: 50;
 }
 p{
-    font-style: italic;
+  font-family: Open Sans;
 }
-social-menu{
-	 padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
+div {
+  
+}
 
+
+div#gallery01.gallery{
+    background: ;
+
+}
+div.inner{
+  margin-right: all;ar
+
+}
+div#container01.containerdefault{
+  background-color: rgba(100, 50, 50, 1.0);
+}
+ul#buttons.buttons {
+  
+
+
+  
+}
+
+a.fab.fa.facebook {
+  padding: 10;
+  background-color: rgba(100, 50, 40, 1.0);
+}
+
+span.label {
+   border-width: 20px;
 }
