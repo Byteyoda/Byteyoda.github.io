@@ -15,12 +15,6 @@ body {
   margin: 50px 50px 50px 50px;
   
 }
-.h1{
-  display: inline-flex;
-  font-size: 100px;
-  font-display: block;
-  margin-right: 50;
-}
 p{
   font-family: Open Sans;
 }
@@ -43,15 +37,32 @@ div#container01.containerdefault{
 ul#buttons.buttons {
   
 
-
   
 }
 
-a.fab.fa.facebook {
-  padding: 10;
-  background-color: rgba(100, 50, 40, 1.0);
+img{
+  margin-right: 10px;
 }
 
-span.label {
-   border-width: 20px;
+a,i.fab fa-facebook {
+  background-color: whitesmoke;
+  border-style: groove;
+  border-style: double;
+  border-width: 1px;
+  border: 1px thin;
+  border-radius: 8px;
+  font-family: Open Sans;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+
+}
+a,i.fab fa-twitter-square{
+  border: 2px thin;
+  border-radius: 8px;
+  font-family: Open Sans;
+
+}
+
+a,i,span.label{
+  font-size: 30px;
 }
